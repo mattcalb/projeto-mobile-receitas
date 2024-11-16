@@ -4,7 +4,7 @@ Integrantes do grupo: Danielle Werutsky, Matthäus Campanher Albrecht, Vinícius
 
 Instruções:
 - Ao abrir o projeto, mudar o tipo de visualização de "Android" para "Projeto".
-- Acessar a página app > google-services.json.
+- Acessar o arquivo google-services.json, que está na pasta app.
 - No campo "api-key", colar o código enviado pelo LEX entre as chaves.
 - Clicar em "Cadastre-se" para criar uma nova conta.
 - A senha deve ter no mínimo 6 caracteres.
